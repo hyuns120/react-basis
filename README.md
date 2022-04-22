@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Management System
+
+본 프로젝트는 테스트 시스템(Management System)입니다.
+
 ## Available Scripts
 
 In the project directory, you can run:
